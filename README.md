@@ -2,9 +2,9 @@
 
 Guide for running BalanCity on GNU+Linux operating systems.
 
-## Guide
+## Instructions
 
-_Note: Files you copy/download must be compatible with your game architecture._
+_Note: Files you copy/install must be compatible with your game architecture._
 
 1. Install libgconf
 2. Add this to launch options:
