@@ -23,4 +23,4 @@ Get that file from there: https://chromium.googlesource.com/chromium/reference_b
 
 ### ReferenceError: module is not defined
 
-Extract and replace index.html from the package.nw with a [patch](module.patch) applied to it.
+Extract and replace `index.html` from the `package.nw` with [this patch](module.patch) applied to it.
