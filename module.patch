@@ -1,0 +1,9 @@
+@@ -52,7 +52,7 @@
+ 	<script src="jquery-2.1.1.min.js"></script>
+ 
+ 	<script src="moment-with-locales.min.js"></script>
+-	<script src="Steam4C2.js"></script>
++	<script type="module" src="Steam4C2.js"></script>
+ 	<script src="pathfind.js"></script>
+ 
+ 	
